@@ -88,20 +88,13 @@
                             <span>REQUEST FOR YOUR</span>
                             <h2>Consultation</h2>
                         </div>
-                        <form action="#">
+                        <form action="./submit.php" method="post">
                             <input type="text" placeholder="Name">
-                            <input type="text" placeholder="Email">
                             <div class="datepicker__item">
                                 <input type="text" placeholder="Date" class="datepicker">
                                 <i class="fa fa-calendar"></i>
                             </div>
-                            <select>
-                                <option value="">Type of service</option>
-                                <option value="">Advanced equipment</option>
-                                <option value="">Qualified doctors</option>
-                                <option value="">Certified services</option>
-                                <option value="">Emergency care</option>
-                            </select>
+                            
                             <button type="submit" class="site-btn">Book appoitment</button>
                         </form>
                     </div>
@@ -284,29 +277,29 @@
                         </div>
                     </div>
                 </div> -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="team__item">
-                        <img src="img/team/team-2.jpg" alt="">
-                        <h5>Dr. Maria Angel</h5>
-                        <span>Plastic surgeon</span>
-                        <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div> -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team__item">
-                        <img src="img/team/Dr.jpg" alt="">
-                        <h5>Dr Renuka Bhoi</h5>
+                        <img src="img/team/Dr3.jpg" alt="">
+                        <h5>Dr Rennuka Bhoi</h5>
                         <span>M.S.C in Cosmetology,Trichology,Skin Aesthetics</span>
                         <div class="team__item__social">
                             <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
                             <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="team__item">
+                        <img src="img/team/DR2.jpg" alt="">
+                        <h5>Dr SAMRAT P.TAWDE</h5>
+                        <span>MS OMFC (UK),MFDS RCPSG (UK)</span>
+                        <div class="team__item__social">
+                            <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
+                            <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
                         </div>
                     </div>
                 </div>

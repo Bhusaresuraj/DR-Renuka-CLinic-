@@ -17,10 +17,10 @@
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="footer__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                            <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
+                            <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                         <h5>Treatments</h5>
                         <ul>
                             <li><a href="#">DERMATOLOGY</a></li>
-                            <li><a href="#">SKIN TRAETMENT</a></li>
+                            <li><a href="#">Surgical Treatment</a></li>
                             <li><a href="#">Tricology</a></li>
                             <li><a href="#">COSMETOLOGY</a></li>
                             <!-- <li><a href="#">Fat Reduction</a></li> -->
@@ -77,7 +77,7 @@
                     <div class="col-lg-7">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         <div class="footer__copyright__text">
-                            <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+                            <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script> All rights reserved  <i class="fa fa-heart" aria-hidden="true"></i>  <a href="https://colorlib.com" target="_blank"></a></p>
                         </div>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>

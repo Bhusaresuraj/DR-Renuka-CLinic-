@@ -42,9 +42,9 @@
             <a href="#" class="primary-btn">Appointment</a>
         </div>
         <ul class="offcanvas__widget">
-            <li><i class="fa fa-phone"></i> 1-677-124-44227</li>
-            <li><i class="fa fa-map-marker"></i> Los Angeles Gournadi, 1230 Bariasl</li>
-            <li><i class="fa fa-clock-o"></i> Mon to Sat 9:00am to 18:00pm</li>
+            <li><i class="fa fa-phone"></i>91-9167375301</li>
+            <li><i class="fa fa-map-marker"></i> Lokhandwala Complex Andheri(West)</li>
+            <li><i class="fa fa-clock-o"></i> Mon to Sat 11:00am to 9:00pm</li>
         </ul>
         <div class="offcanvas__social">
             <a href="#"><i class="fa fa-facebook"></i></a>
@@ -88,7 +88,7 @@
                         </div>
                         <div class="contact__widget__text">
                             <h5>Address</h5>
-                            <p>Los Angeles Gournadi, 1230 Bariasl</p>
+                            <p>Lokhandwala Complex Andheri(West)</p>
                         </div>
                     </div>
                 </div>
@@ -98,8 +98,8 @@
                             <i class="fa fa-phone"></i>
                         </div>
                         <div class="contact__widget__text">
-                            <h5>Hotline</h5>
-                            <p>1-677-124-44227 • 1-688-356-66889</p>
+                            <h5>Call</h5>
+                            <p>+91-9167375301</p>
                         </div>
                     </div>
                 </div>
@@ -127,8 +127,8 @@
                             <h3>Get in touch</h3>
                             <form action="#">
                                 <input type="text" placeholder="Name">
-                                <input type="text" placeholder="Email">
-                                <input type="text" placeholder="Website">
+                                <!-- <input type="text" placeholder="Email"> -->
+                                <!-- <input type="text" placeholder="Website"> -->
                                 <textarea placeholder="Message"></textarea>
                                 <button type="submit" class="site-btn">Send Message</button>
                             </form>

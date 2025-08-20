@@ -42,10 +42,9 @@
             <a href="#" class="primary-btn">Appointment</a>
         </div>
         <ul class="offcanvas__widget">
-            <li><i class="fa fa-phone"></i> 1-677-124-44227</li>
-            <li><i class="fa fa-map-marker"></i> Los Angeles Gournadi, 1230 Bariasl</li>
-            <li><i class="fa fa-clock-o"></i> Mon to Sat 9:00am to 18:00pm</li>
-        </ul>
+            <li><i class="fa fa-phone"></i> 91-9167375301</li>
+            <li><i class="fa fa-map-marker"></i>Lokhandwala Complex Andheri(West)</li>
+            <li><i class="fa fa-clock-o"></i> Mon to Sat 11:00am to 9:00pm </li></ul>
         <div class="offcanvas__social">
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -327,29 +326,29 @@
                         </div>
                     </div>
                 </div> -->
-                <!-- <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="team__item">
-                        <img src="img/team/team-2.jpg" alt="">
-                        <h5>Dr. Maria Angel</h5>
-                        <span>Plastic surgeon</span>
-                        <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div> -->
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="team__item">
-                        <img src="img/team/Dr.jpg" alt="">
-                        <h5>Dr Renuka Bhoi</h5>
+                        <img src="img/team/Dr3.jpg" alt="">
+                        <h5>Dr Rennuka Bhoi</h5>
                         <span>M.S.C in Cosmetology,Trichology,Skin Aesthetics</span>
                         <div class="team__item__social">
                             <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
                             <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="team__item">
+                        <img src="img/team/DR2.jpg" alt="">
+                        <h5>Dr SAMRAT P.TAWDE</h5>
+                        <span>MS OMFC (UK),MFDS RCPSG (UK)</span>
+                        <div class="team__item__social">
+                            <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
+                            <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
                         </div>
                     </div>
                 </div>

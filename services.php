@@ -191,19 +191,42 @@ Specialized hair treatments to reduce hair fall, improve scalp health, and resto
                                 <div class="card">
                                     <div class="card-heading">
                                         <a data-toggle="collapse" data-target="#collapseTwo">
-                                            Skin
+                                            Surgical Treatment
                                         </a>
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent="#accordionExample">
                                         <div class="card-body">
                                             <ul>
-                                                <li><a href="#">Acne</a></li>
-                                                <li><a href="#">Dermatitis</a></li>
-                                                <li><a href="#">Rosacea</a></li>
-                                                <li><a href="#">Fungal Infection</a></li>
-                                                <li><a href="#">Lupus</a></li>
-                                                <li><a href="#">Chronic Dry Skin</a></li>
-                                                <li><a href="#">Hives</a></li>
+                                                <li>Facial Scar / Cyst Removal</li>
+<li>Facial Laser Treatment</li>
+<li>Cleft Lip and Palate Treatment</li>
+<li>Rhinoplasty / Cosmetic Nose Treatment</li>
+<li>Ear Reconstruction</li>
+<li>Facial Contouring and Liposuction</li>
+<li>Wisdom Tooth Removal</li>
+<li>Oral Surgery</li>
+<li>Dental Implant Placement</li>
+<li>Facial Aesthetic Surgery / Cosmetic Surgery</li>
+<li>Trismus / Inability to Open Mouth</li>
+<li>Facial Plastic Surgery</li>
+<li>Bone Cysts</li>
+<li>Benign Tumours of the Jaw</li>
+<li>Skin Mole Removal</li>
+<li>Laser Hair Reduction</li>
+<li>Tattoo Removal</li>
+<li>Hair Transplant and Hair Regeneration</li>
+<li>PRP Treatment</li>
+<li>Facial Infection</li>
+<li>Dimple Creation</li>
+<li>Facial Rejuvenation</li>
+<li>Jaw Re-arrangement Surgery</li>
+<li>Jaw Joint Surgery</li>
+<li>Facial Aesthetic Implant Placement</li>
+<li>Oral, Head and Neck Cancer Treatment</li>
+<li>Facial Pain Treatment</li>
+<li>Oral Ulcers and Lesions</li>
+<li>Stem Cell Treatment</li>
+
                                             </ul>
                                         </div>
                                     </div>

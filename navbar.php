@@ -5,16 +5,16 @@
                     <div class="col-lg-8">
                         <ul class="header__top__left">
                             <li><i class="fa fa-phone"></i>91-9167375301</li>
-                            <li><i class="fa fa-map-marker"></i>Lokhandwala Complex ANdheri(West)</li>
-                            <li><i class="fa fa-clock-o"></i> Mon to Sat 11:00am to 21:00pm</li>
+                            <li><i class="fa fa-map-marker"></i>Lokhandwala Complex Andheri(West)</li>
+                            <li><i class="fa fa-clock-o"></i> Mon to Sat 11:00am to 9:00pm</li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
                         <div class="header__top__right">
                             <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
-                            <a href=""><i class="fa fa-twitter"></i></a>
+                            <!-- <a href=""><i class="fa fa-twitter"></i></a> -->
                             <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
-                            <a href=""><i class="fa fa-dribbble"></i></a>
+                            <!-- <a href=""><i class="fa fa-dribbble"></i></a> -->
                         </div>
                     </div>
                 </div>

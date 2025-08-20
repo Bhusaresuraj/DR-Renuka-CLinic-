@@ -79,124 +79,53 @@
     <!-- Breadcrumb Section End -->
 
     <!-- Doctor Section Begin -->
-    <section class="doctor spad">
+    <section class="team spad">
         <div class="container">
-            <div class="doctor__item">
-                <div class="row">
-                    <div class="col-lg-6 order-lg-1">
-                        <div class="doctor__item__pic">
-                            <img src="img/doctor/doctor-1.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 order-lg-2">
-                        <div class="doctor__item__text">
-                            <span>MBBS, MRCP(UK), CCST(DERM)</span>
-                            <h2>Dr Emili Craythorne</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                            gravida. Risus commodo viverra maecenas accumsan.sis. </p>
-                            <ul>
-                                <li><i class="fa fa-check-circle"></i> Routine and medical care</li>
-                                <li><i class="fa fa-check-circle"></i> Excellence in Healthcare every</li>
-                                <li><i class="fa fa-check-circle"></i> Building a healthy environment</li>
-                                <li><i class="fa fa-check-circle"></i> cumsan lacus vel facilisis.</li>
-                            </ul>
-                            <div class="doctor__item__social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-                            </div>
-                        </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="section-title">
+                        <span>Our Team</span>
+                        <h2>Our Expert Doctors</h2>
                     </div>
                 </div>
             </div>
-            <div class="doctor__item">
-                <div class="row">
-                    <div class="col-lg-6 order-lg-4">
-                        <div class="doctor__item__pic">
-                            <img src="img/doctor/doctor-2.jpg" alt="">
+            <div class="row">
+                <!-- <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="team__item">
+                        <img src="img/team/team-1.jpg" alt="">
+                        <h5>Caroline Grant</h5>
+                        <span>Plastic surgeon</span>
+                        <div class="team__item__social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-dribbble"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-6 order-lg-3">
-                        <div class="doctor__item__text  doctor__item__text--left">
-                            <span>MBBS, MRCP(UK), CCST(DERM)</span>
-                            <h2>Dr Jessica Jones</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                            gravida. Risus commodo viverra maecenas accumsan.sis. </p>
-                            <ul>
-                                <li><i class="fa fa-check-circle"></i> Routine and medical care</li>
-                                <li><i class="fa fa-check-circle"></i> Excellence in Healthcare every</li>
-                                <li><i class="fa fa-check-circle"></i> Building a healthy environment</li>
-                                <li><i class="fa fa-check-circle"></i> cumsan lacus vel facilisis.</li>
-                            </ul>
-                            <div class="doctor__item__social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="doctor__item">
-                <div class="row">
-                    <div class="col-lg-6 order-lg-5">
-                        <div class="doctor__item__pic">
-                            <img src="img/doctor/doctor-3.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 order-lg-6">
-                        <div class="doctor__item__text">
-                            <span>MBBS, MRCP(UK), CCST(DERM)</span>
-                            <h2>Dr Ahel Natasha</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                            gravida. Risus commodo viverra maecenas accumsan.sis. </p>
-                            <ul>
-                                <li><i class="fa fa-check-circle"></i> Routine and medical care</li>
-                                <li><i class="fa fa-check-circle"></i> Excellence in Healthcare every</li>
-                                <li><i class="fa fa-check-circle"></i> Building a healthy environment</li>
-                                <li><i class="fa fa-check-circle"></i> cumsan lacus vel facilisis.</li>
-                            </ul>
-                            <div class="doctor__item__social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-                            </div>
+                </div> -->
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="team__item">
+                        <img src="img/team/Dr.jpg" alt="">
+                        <h5>Dr Rennuka Bhoi</h5>
+                        <span>M.S.C in Cosmetology,Trichology,Skin Aesthetics</span>
+                        <div class="team__item__social">
+                            <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
+                            <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="doctor__item">
-                <div class="row">
-                    <div class="col-lg-6 order-lg-8">
-                        <div class="doctor__item__pic">
-                            <img src="img/doctor/doctor-4.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 order-lg-7">
-                        <div class="doctor__item__text doctor__item__text--left">
-                            <span>MBBS, MRCP(UK), CCST(DERM)</span>
-                            <h2>Dr Gabriela Beckett</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                            gravida. Risus commodo viverra maecenas accumsan.sis. </p>
-                            <ul>
-                                <li><i class="fa fa-check-circle"></i> Routine and medical care</li>
-                                <li><i class="fa fa-check-circle"></i> Excellence in Healthcare every</li>
-                                <li><i class="fa fa-check-circle"></i> Building a healthy environment</li>
-                                <li><i class="fa fa-check-circle"></i> cumsan lacus vel facilisis.</li>
-                            </ul>
-                            <div class="doctor__item__social">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-instagram"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-                            </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="team__item">
+                        <img src="img/team/DR2.jpg" alt="">
+                        <h5>Dr SAMRAT P.TAWDE</h5>
+                        <span>MS OMFC (UK),MFDS RCPSG (UK)</span>
+                        <div class="team__item__social">
+                            <a href="https://www.facebook.com/drrennukaskinclinic"><i class="fa fa-facebook"></i></a>
+                            <!-- <a href="#"><i class="fa fa-twitter"></i></a> -->
+                            <a href="https://www.instagram.com/dr.rennukas_skin_clinic/"><i class="fa fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa fa-dribbble"></i></a> -->
                         </div>
                     </div>
                 </div>
